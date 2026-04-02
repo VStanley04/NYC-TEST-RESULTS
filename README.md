@@ -30,30 +30,10 @@ The analysis focuses on answering three key questions:
  ### 2. Exploratory Data Analysis (EDA)
 - Examined score distributions  
 - Compared performance across boroughs  
- ## 📈 Key Insights
+ ##  Key Insights
 - Identified top-performing schools based on total SAT scores  
 - Highlighted boroughs with the strongest academic performance  
-- Observed variations between Reading, Math, and Writing scores  
-  ##finding
-
-                                          school_name  average_math
-88                              Stuyvesant High School           754
-170                       Bronx High School of Science           714
-93                 Staten Island Technical High School           711
-365  Queens High School for the Sciences at York Co...           701
-68   High School for Mathematics, Science, and Engi...           683
-                      mean         std  count
-borough                                      
-Bronx          1202.724490  150.393901     98
-Brooklyn       1230.256881  154.868427    109
-Manhattan      1340.134831  230.294140     89
-Queens         1345.478261  195.252899     69
-Staten Island  1439.000000  222.303596     10
-           average_SAT  std_SAT  num_schools
-borough                                     
-Manhattan      1340.13   230.29           89
-
-
+- Observed variations between Reading, Math, and Writing scores
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/VStanley04/NYC-TEST-RESULTS.git
