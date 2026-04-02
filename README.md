@@ -23,7 +23,7 @@ The analysis focuses on answering three key questions:
 - **File:** `schools.csv`  
 - Contains SAT performance data for NYC public schools  
 ## Methodology
- ### 2. Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 - Examined score distributions  
 - Compared performance across boroughs  
  ##  Key Insights
