@@ -1,13 +1,9 @@
 # NYC-TEST-RESULTS
 #  NYC Student Performance Analysis
-
-##Project Overview
+## PROJECT OVERVIEW
 Every year, American high school students take the SAT—standardized tests designed to measure literacy, numeracy, and writing skills. The exam consists of three sections: **Reading, Math, and Writing**, each scored out of 800 points.
 
 This project analyzes SAT performance across New York City (NYC) public schools to uncover patterns, trends, and insights that can support **education stakeholders, policymakers, and parents** in decision-making.
-
----
-
 ## Objectives
 The analysis focuses on answering three key questions:
 
